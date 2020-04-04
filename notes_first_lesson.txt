@@ -2,3 +2,8 @@ mkdir: creates new directory/folder
 touch: creates new file (do not forget extension : .txt, .html, .js)
 ls: lists directories and files (visible ones)
 .. : moves one level up
+
+git init: initialize git
+git add name_of_what_youre_adding (or " . " for all) 
+git status: shows if there's anything to add, all the git pending activity
+git commit -m"describe what you did with as much detail as possible": saves pieces of code that make sense as a chunk
