@@ -7,3 +7,14 @@ git init: initialize git
 git add name_of_what_youre_adding (or " . " for all) 
 git status: shows if there's anything to add, all the git pending activity
 git commit -m"describe what you did with as much detail as possible": saves pieces of code that make sense as a chunk
+
+
+Create new repo: click button "new" > "create repository"
+Copy paste stuff into the terminal (if starting from zero, paste the whole thing)
+
+
+Every time you save, you should add
+You should commit when the chunk of code makes sense
+Push when you have a stable version
+
+
