@@ -1,0 +1,4 @@
+mkdir: creates new directory/folder
+touch: creates new file (do not forget extension : .txt, .html, .js)
+ls: lists directories and files (visible ones)
+.. : moves one level up
